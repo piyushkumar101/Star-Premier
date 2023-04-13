@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Star Premier</string>
+
+    <string-array name="menu_items">
+        <item>Home</item>
+        <item>Casting</item>
+        <item>Premiers</item>
+        <item>News</item>
+    </string-array>
+</resources>
